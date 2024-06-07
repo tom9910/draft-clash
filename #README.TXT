@@ -1,0 +1,1 @@
+This is app for generating a draft lottery
